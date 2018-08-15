@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#21222c</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="bluestarcolor">#47f9fe</color>
+    <color name= "blueendcolor">#1295fd</color>
+
+
+    <color name="redstarcolor">#FF0266</color>
+    <color name="secondred">#EC407A</color>
+
+    <color name="yellowfirst">#FDD835</color>
+    <color name="yellowsecond">#FFF176</color>
+</resources>
